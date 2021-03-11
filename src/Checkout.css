@@ -1,5 +1,5 @@
 .checkout__ad {
-  width: 100%;
+  width: 98%;
   margin-bottom: 10px;
   max-height: 150px;
 }
@@ -15,4 +15,9 @@
     margin-right: 10px;
     padding: 10px;
     border-bottom: 1px solid lightgray;
+}
+
+.checkout__left > img {
+  border: 1px solid lightgray;
+  margin-right: 5px;
 }
